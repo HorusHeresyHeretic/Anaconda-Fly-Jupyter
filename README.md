@@ -15,8 +15,6 @@ Jupyter notebooks are awesome
 
 ..или это: https://soundcloud.com/nekopandaneko/scarboroughfair
 
-но лучше, это: http://coub.com/view/t0gud
-
 # Репозиторий повествует о божественности Anaconda и Jupyter Notebooks 
 
 Anaconda это вещь! https://docs.continuum.io/anaconda/
@@ -48,6 +46,8 @@ https://habrahabr.ru/company/ods/blog/323210/
 - Heresy Lesson1 Telecom: хороший пример того, как Юпитер улучшает читабельность длиннокода.
 - Homework lesson1 Adult: история про то - сколько таблиц влазит в Юпитер и как их потом читать.
 - DFMatplotlib Adult: история про то - сколько графиков можно запихнуть в Юпитер и как это выглядит.
+
+# http://coub.com/view/t0gud
 
 
 
