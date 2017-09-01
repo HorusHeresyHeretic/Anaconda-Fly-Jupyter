@@ -1,7 +1,7 @@
 # Anaconda-Fly-Jupyter
 Jupyter notebooks are awesome
 
-# Идея репозитория - Python IPython Jupyter Notebooks Matplotlib etc
+# Python IPython Jupyter Notebooks Matplotlib etc
 ..репозиторий нужен за ради "похвастаться", я тут вроде как на работу собрался устраиваться.
 
 # Вот и давайте познакомимся.
@@ -26,12 +26,19 @@ https://habrahabr.ru/company/ods/blog/323210/
 Если забить такое в студии:
 
 import pandas as pd 
+
 import matplotlib.pyplot as plt
+
 plt.rcParams['figure.figsize'] = (10, 8)
+
 import numpy as pr
+
 data = pd.read_csv("J:/HiEnd/mlcourse_open-master/mlcourse_open-master/data/adult.data.csv")
+
 data.info()
+
 pd.crosstab(data['age'], data['salary'], margins=True).plot()
+
 plt.show()
 
 Anaconda вернёт описание датафрейма в студии и построит интересующий нас график через консоль IPython. А с появлением в поле вашего зрения фукнционала тетрадок Юпитер, студия вообще отойдёт на второй план: вы будете использовать её только для проверки синтаксиса.
