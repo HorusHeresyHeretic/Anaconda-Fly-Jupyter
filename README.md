@@ -49,7 +49,7 @@ https://habrahabr.ru/company/ods/blog/323210/
 
 # http://coub.com/view/t0gud
 
-
+# Лайфхак конвератции Python в IPython
 
 
 
