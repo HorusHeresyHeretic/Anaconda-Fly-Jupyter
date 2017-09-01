@@ -13,6 +13,10 @@ Jupyter notebooks are awesome
 
 Лично я вместо крестика советую использовать это https://youtu.be/u-WGS66ykD0
 
+..или это: https://soundcloud.com/nekopandaneko/scarboroughfair
+
+но лучше, это: http://coub.com/view/t0gud
+
 # Репозиторий повествует о божественности Anaconda и Jupyter Notebooks 
 
 Anaconda это вещь! https://docs.continuum.io/anaconda/
