@@ -10,5 +10,31 @@
 
 3. Warp_pony_heresy_generator - Уже годная стори про поняшу, которая любит гулять по варп порталам и которая вкачала себе magic_find().
 
+4. Эта музыка будет вечной.
+
+def select():
+    Q1 = df_focus[df_focus['quarter'] =='Q1']
+    Q2 = df_focus[df_focus['quarter'] =='Q2']
+    Q3 = df_focus[df_focus['quarter'] =='Q3']
+    Q4 = df_focus[df_focus['quarter'] =='Q4']
+    return Q1,Q2,Q3,Q4
+
+def warp_field_generator():
+    for pony in select():
+        yield pony
+
+warp_portal = warp_field_generator()  
+
+def pony_in_action():
+    for warp in warp_portal:
+        profit = warp['revenue'].sum()
+        unic_users = warp['id'].value_counts().sum()
+        try:
+            user_profit = profit / unic_users
+        except ZeroDivisionError:
+            user_profit = 0
+            
+        print ('Прибыль по кварталам', profit,'Число уникальных юзеров', unic_users, 'Средний чек', user_profit ) 
+
 
 
