@@ -4,4 +4,6 @@
 **Моё лицо, когда я читаю ваши техническое задания..**
 ![Моё лицо, когда я читаю ваши ТЗ](https://github.com/HorusHeresyHeretic/Anaconda-Fly-Jupyter/blob/master/FreeLance_Manga/PokerFace.png)
 
-# Будни фриланса за 2018 год, платят три копейки.
+# Будни фриланса за 2018 год, платят три и 0.5 копейки.
+
+
